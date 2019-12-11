@@ -3,7 +3,7 @@
 
 
 
-def meal_choice("broccoli", "macaroni")
+def meal_choice(broccoli, macaroni)
   "A plate of meat with #{"broccoli"} and #{"macaroni"}."
 end
   
