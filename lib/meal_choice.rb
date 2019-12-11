@@ -5,4 +5,3 @@ def meal_choice (broccoli, macaroni, protein = "meat")
   puts "A plate of #{protein} with #{broccoli} and #{macaroni}."
 end
 
-puts meal_choice(broccoli, macaroni, protein)
